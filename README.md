@@ -1,2 +1,2 @@
 # scripts
-Just for backup some scripts.
+Just backup some scripts.
